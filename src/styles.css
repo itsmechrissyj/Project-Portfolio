@@ -54,8 +54,13 @@ h3 {
 @media (max-width: 576px) {
   h1 {
     text-align: center;
-  }
+ 
 }
+
+@media (max-width:900px) {h1 {
+  font-size: 20px
+  
+}}
 
 h2 {
   display: block;
